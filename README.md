@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**mohamedsaleh1984/mohamedsaleh1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a versatile and passionate computer programmer with a strong interest in problem-solving, building innovative tools, and developing systems. I thrive on learning new technologies and applying them to create efficient solutions.
 
-Here are some ideas to get you started:
+### Key Skills & Expertise
+Desktop Application Development: Built multiple desktop solutions for various business domains using .NET Framework and Microsoft Dynamics AX 2013.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend Development: Developed Single-Page Applications (SPAs) using modern frameworks like React, Vue.js, and StencilJS.
+
+Reverse Engineering & Assembly: Enjoy exploring low-level programming and reverse engineering using tools like IDA Pro, GDB, OllyDbg, and SPY++.
+
+Continuous Learning: Constantly expanding my knowledge and exploring new technologies to stay ahead in the ever-evolving tech landscape.
+
+- 🔭 I’m currently working on search engine to replace windows search bar. 
+- 🌱 I’m currently learning about Azure/AWS
+- 📫 [mohamedsaleh1984@hotmail.com](mailto:mohamedsaleh1984@hotmail.com)
+
+
