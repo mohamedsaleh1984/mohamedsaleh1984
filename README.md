@@ -12,7 +12,7 @@ Reverse Engineering & Assembly: Enjoy exploring low-level programming and revers
 Continuous Learning: Constantly expanding my knowledge and exploring new technologies to stay ahead in the ever-evolving tech landscape.
 
 ### Technologies
-C#, .Net Core, ASP.NET MVC, IIS, Windows Forms, .Net Framework 4.8, REST API, JavaScript, Vue.JS, ReactJS, TypeScript, StencilJs, AzureDevOps CI/CD, Yaml, Handlebars, TSQL, Docker, Microservices, Git, DevExpress, Mermaid, Handlebars, JWT, WebHooks, SignalR, ELK, X++ Language, AOT, MS SQL Server, SSRS, SAP Crystal Reports, Visual Basic 6.0, TFS, Windows Services, JSON, SOAP, Infragistics, DevExpress, LLBLGen 2.4, Win32 API, C++, Micro-C, Arduino, ActionScript 3.
+C#, .Net Core, ASP.NET MVC, IIS, Windows Forms, .Net Framework 4.8, REST API, JavaScript, Vue.JS, ReactJS, TypeScript, StencilJs, AzureDevOps CI/CD, Yaml, Handlebars, TSQL, Docker, Microservices, Git, DevExpress, Mermaid, Handlebars, JWT, WebHooks, SignalR, ELK, X++ Language, AOT, MS SQL Server, SSRS, SAP Crystal Reports, Visual Basic 6.0, TFS, Windows Services, JSON, SOAP, Infragistics, DevExpress, LLBLGen 2.4, Win32 API, C/C++ Language, Micro-C, Arduino, ActionScript 3, Shell and Python
 
 ## Lastest Contributions
 [Chrome Extension](https://chromewebstore.google.com/detail/deepseek-chat-to-pdf/mabkcicpfnmnohfppfbcplcopjfnjhej?hl=en-US&utm_source=ext_sidebar)
