@@ -14,6 +14,12 @@ Continuous Learning: Constantly expanding my knowledge and exploring new technol
 ### Technologies
 C#, .Net Core, ASP.NET MVC, IIS, Windows Forms, .Net Framework 4.8, REST API, JavaScript, Vue.JS, ReactJS, TypeScript, StencilJs, AzureDevOps CI/CD, Yaml, Handlebars, TSQL, Docker, Microservices, Git, DevExpress, Mermaid, Handlebars, JWT, WebHooks, SignalR, ELK, X++ Language, AOT, MS SQL Server, SSRS, SAP Crystal Reports, Visual Basic 6.0, TFS, Windows Services, JSON, SOAP, Infragistics, DevExpress, LLBLGen 2.4, Win32 API, C++, Micro-C, Arduino, ActionScript 3.
 
+## Lastest Contributions
+[Chrome Extension](https://chromewebstore.google.com/detail/deepseek-chat-to-pdf/mabkcicpfnmnohfppfbcplcopjfnjhej?hl=en-US&utm_source=ext_sidebar)
+
+[YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader)
+
+
 
 - 🔭 I’m currently working on search engine to replace windows search bar. 
 - 🌱 I’m currently learning about Azure/AWS
