@@ -19,7 +19,7 @@ C#, .Net Core, ASP.NET MVC, IIS, Windows Forms, .Net Framework 4.8, REST API, Ja
 
 [Duplicates Finder - C++17](https://github.com/mohamedsaleh1984/duplicate-files-finder)
 
-[YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader)
+[YoutubeDownloader - C#](https://github.com/Tyrrrz/YoutubeDownloader)
 
 - 🔭 I’m currently working on search engine to replace windows search bar. 
 - 🌱 I’m currently learning about Azure/AWS
