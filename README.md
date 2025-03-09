@@ -17,7 +17,7 @@ C#, .Net Core, ASP.NET MVC, IIS, Windows Forms, .Net Framework 4.8, REST API, Ja
 ## Lastest Contributions
 [Chrome Extension - JS](https://github.com/mohamedsaleh1984/deep-seek-2-pdf)
 
-[Duplicates Finder - CPP17](https://github.com/mohamedsaleh1984/duplicate-files-finder)
+[Duplicates Finder - C++17](https://github.com/mohamedsaleh1984/duplicate-files-finder)
 
 [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader)
 
