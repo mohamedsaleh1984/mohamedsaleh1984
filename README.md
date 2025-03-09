@@ -16,11 +16,10 @@ C#, .Net Core, ASP.NET MVC, IIS, Windows Forms, .Net Framework 4.8, REST API, Ja
 
 ## Lastest Contributions
 [Chrome Extension - JS](https://github.com/mohamedsaleh1984/deep-seek-2-pdf)
+
 [Duplicates Finder - CPP17](https://github.com/mohamedsaleh1984/duplicate-files-finder)
+
 [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader)
-
-
-
 
 - 🔭 I’m currently working on search engine to replace windows search bar. 
 - 🌱 I’m currently learning about Azure/AWS
