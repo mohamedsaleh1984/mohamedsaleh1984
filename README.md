@@ -18,7 +18,7 @@ C#, .Net Core, ASP.NET MVC, IIS, Windows Forms, .Net Framework 4.8, REST API, Ja
 
 [Scalable Geolocation Citibike Assignment - C#](https://github.com/mohamedsaleh1984/MP_System)
 
-[Duplicates Finder - C++17](https://github.com/mohamedsaleh1984/duplicate-files-finder)🔥Active Dev
+[Duplicates Finder - C++17](https://github.com/mohamedsaleh1984/duplicate-files-finder)🔥Active Development
 
 [Chrome Extension - JS](https://github.com/mohamedsaleh1984/deep-seek-2-pdf)
 
