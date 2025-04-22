@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a strong computer programmer with a deep interest in problem-solving, building innovative tools, and developing systems. I thrive on learning new technologies and applying them to create efficient solutions.
+I am a computer programmer with a deep interest in problem-solving, building innovative tools, and developing systems. I thrive on learning new technologies and applying them to create efficient solutions.
 
 ### Key Skills & Expertise
 Desktop Application Development: Built multiple desktop solutions for various business domains using .NetCore.NET, C#, Framework and Microsoft Dynamics.
