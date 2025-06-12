@@ -27,7 +27,7 @@ C#, .Net Core, ASP.NET MVC, IIS, Windows Forms, .Net Framework 4.8, REST API, Ja
 - 📫 [mohamedsaleh1984@hotmail.com](mailto:mohamedsaleh1984@hotmail.com)
 
 ### Certificates
-[[Microsoft Certified: Azure Fundamentals]-2025](./certs/AZ-900.pdf)
+[Microsoft Certified: Azure Fundamentals-2025](./certs/AZ-900.pdf)
 
 [Certified ScrumMaster-2025](./certs/Certified%20ScrumMaster%20(CSM).pdf)
 
