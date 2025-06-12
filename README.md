@@ -35,7 +35,7 @@ C#, .Net Core, ASP.NET MVC, IIS, Windows Forms, .Net Framework 4.8, REST API, Ja
 
 [Master in Computer Science-2022](./certs/MS.c%20CS.pdf)
 
-[Andriod Developer Track-2018](./certs/UDA.pdf)
+[Android Developer Track-2018](./certs/UDA.pdf)
 
 [Software Project Managment-2016](./certs/SPM.pdf)
 
