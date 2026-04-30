@@ -31,26 +31,6 @@ C#, .Net Core, ASP.NET MVC, IIS, Windows Forms, .Net Framework 4.8, REST API, Ja
 
 [Certified ScrumMaster-2025](./certs/Certified%20ScrumMaster%20(CSM).pdf)
 
-[Agile Course Completion-2025](./certs/Course%20Completion%20Certificate-upGrade.pdf)
 
-[Master in Computer Science-2022](./certs/MS.c%20CS.pdf)
-
-[Android Developer Track-2018](./certs/UDA.pdf)
-
-[Software Project Managment-2016](./certs/SPM.pdf)
-
-[Snap-In Development Specialist-2016](./certs/SNAP.pdf)
-
-[Into to Agile Software Development-2016](./certs/AG.pdf)
-
-[Agile Foundation-2016](./certs/Agile%20Exam.pdf)
-
-[In Dealing with Difficult People-2016](./certs/HMG-1.pdf)
-
-[In Art of Listening-2016](./certs/HMG-2.pdf)
-
-[Mastering Java-2009](/certs/YAT-2.pdf)
-
-[Electronics-2009](./certs/ELEC.pdf)
 
 
