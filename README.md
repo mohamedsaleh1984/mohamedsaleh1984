@@ -22,10 +22,6 @@ C#, .Net Core, ASP.NET MVC, IIS, Windows Forms, .Net Framework 4.8, REST API, Ja
 
 [Chrome Extension - JS](https://github.com/mohamedsaleh1984/deep-seek-2-pdf)
 
-- 🔭 I’m currently working on search engine to replace windows search bar (COM+, Backend services, Indexing, Tokenizer..etc) 
-- 🌱 I’m currently learning about Azure/AWS
-- 📫 [mohamedsaleh1984@hotmail.com](mailto:mohamedsaleh1984@hotmail.com)
-
 ### Certificates
 [Microsoft Certified: Azure Fundamentals-2025](./certs/AZ-900.pdf)
 
