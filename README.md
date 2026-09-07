@@ -42,4 +42,7 @@ C#, .Net Core, ASP.NET MVC, IIS, Windows Forms, .Net Framework 4.8, REST API, Ja
 
 [Machine Learning Foundations Linear Algebra](<./certs/Machine Learning Foundations Linear Algebra.pdf.pdf>)
 
+
+[GitHub Actions for CICD Build Test and Deploy](<./certs/GitHub Actions for CICD Build Test and Deploy.pdf>)
+
 [Learning REST APIs](<./certs/Learning REST APIs.pdf>)
